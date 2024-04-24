@@ -1,0 +1,3 @@
+[submodule "HexaLab"]
+	path = HexaLab
+	url = https://github.com/cnr-isti-vclab/HexaLab/
